@@ -7,7 +7,7 @@ implementations. This will allow libraries and components from different
 vendors to operate in an event driven architecture, sharing a common event
 loop.
 
-## 2. Why?
+## 2. Why Bother?
 
 Some programming languages, such as Javascript, have an event loop that is
 native to the execution environment. This allows package vendors to easily
@@ -22,9 +22,11 @@ independent of the underlying event loop implementation. By creating a
 common interface for an event loop, interoperability of this nature will
 be possible.
 
-## 3. Functionality
+## 3. Scope
 
-The functionality exposed by this standard should include the ability to:
+## 3.1 Goals
+
+The functionality exposed by this interface should include the ability to:
 
 - Watch input streams for available data
 - Watch output streams for the ability to perform non-blocking write operations
