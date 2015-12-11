@@ -43,7 +43,3 @@ The functionality exposed by this standard should include the ability to:
 
 * [Aaron Piotrowski](https://github.com/trowski) (Coordinator)
 * [Christopher Pitt](https://github.com/assertchris)
-
-### 4.3 Contributors
-
-* [Aaron Piotrowski](https://github.com/trowski)
