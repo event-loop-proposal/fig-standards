@@ -39,7 +39,11 @@ The functionality exposed by this standard should include the ability to:
 * [Andrew Carter](https://github.com/AndrewCarterUK)
 * [Cees-Jan Kiewiet](https://github.com/WyriHaximus)
 
-### 9.2 Sponsors
+### 4.2 Sponsors
 
 * [Aaron Piotrowski](https://github.com/trowski) (Coordinator)
 * [Christopher Pitt](https://github.com/assertchris)
+
+### 4.3 Contributors
+
+* [Aaron Piotrowski](https://github.com/trowski)
