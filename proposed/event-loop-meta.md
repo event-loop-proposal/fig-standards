@@ -33,3 +33,15 @@ The functionality exposed by this interface should include the ability to:
 - Run single and periodic timers
 - Listen for signals
 - Defer execution
+
+## 4. People
+
+### 4.1 Editors
+
+* [Andrew Carter](https://github.com/AndrewCarterUK)
+* [Cees-Jan Kiewiet](https://github.com/WyriHaximus)
+
+### 4.2 Sponsors
+
+* [Aaron Piotrowski](https://github.com/trowski) (Coordinator)
+* [Christopher Pitt](https://github.com/assertchris)
