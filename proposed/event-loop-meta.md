@@ -33,3 +33,7 @@ The functionality exposed by this interface should include the ability to:
 - Run single and periodic timers
 - Listen for signals
 - Defer execution
+
+## 3.2 Non-Goals
+
+- Specify stream, promise or coroutine interfaces. They don't in the scope of an event loop but in their own respective PSRs.
