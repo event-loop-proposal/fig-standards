@@ -33,3 +33,12 @@ The functionality exposed by this interface should include the ability to:
 - Run single and periodic timers
 - Listen for signals
 - Defer execution
+
+## 3.2 Non-Goals
+
+The follwoing concepts lie beyond the scope of this event loop proposal, and should be covered by separate standardisations:
+
+- Coroutines
+- Observables
+- Promises
+- Streams
