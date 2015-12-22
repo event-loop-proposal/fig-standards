@@ -36,4 +36,9 @@ The functionality exposed by this interface should include the ability to:
 
 ## 3.2 Non-Goals
 
-- Specify stream, promise or coroutine interfaces. They don't in the scope of an event loop but in their own respective PSRs.
+The follwoing concepts lie beyond the scope of this event loop proposal, and should be covered by separate standardisations:
+
+- Coroutines
+- Observables
+- Promises
+- Streams
