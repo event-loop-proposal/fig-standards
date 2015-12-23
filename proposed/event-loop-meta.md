@@ -32,7 +32,7 @@ The functionality exposed by this interface should include the ability to:
 - Watch output streams for the ability to perform non-blocking write operations
 - Run single and periodic timers
 - Listen for signals
-- Defer execution
+- Defer the execution of code
 
 ## 3.2 Non-Goals
 
