@@ -42,3 +42,15 @@ The following concepts lie beyond the scope of this event loop proposal, and sho
 - Observables
 - Promises
 - Streams
+
+## 4. People
+
+### 4.1 Editors
+
+* [Andrew Carter](https://github.com/AndrewCarterUK)
+* [Cees-Jan Kiewiet](https://github.com/WyriHaximus)
+
+### 4.2 Sponsors
+
+* [Aaron Piotrowski](https://github.com/trowski) (Coordinator)
+* [Christopher Pitt](https://github.com/assertchris)
